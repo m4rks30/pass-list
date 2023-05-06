@@ -1,5 +1,5 @@
 # pass-list
-#password list 30k
+#password list and user list 30k
 
 ## 
 
